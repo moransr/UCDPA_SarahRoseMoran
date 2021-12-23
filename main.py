@@ -124,5 +124,3 @@ g.set_xticklabels(rotation = 90)
 g.fig.suptitle('Breakdown of Dose Type per Vaccine - EU')
 plt.tight_layout
 plt.show()
-
-print('Finished!')
